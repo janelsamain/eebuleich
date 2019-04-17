@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexiekaidu.sharklinux.net/sitemap.xml
